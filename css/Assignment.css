@@ -7,10 +7,7 @@ body{
 }
 #main{
     display: flex;
-    margin-left: 150px;
-    margin-right: 100px;
-    margin-bottom: 100px;
-    margin-top: 80px;
+    margin: 0 auto;
     box-shadow: 4px 8px 4px #131313;
     width: 1000px;
 
